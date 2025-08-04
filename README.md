@@ -1,9 +1,9 @@
-🏁 Optimal Race Line Prediction and Visualisation
+**🏁 Optimal Race Line Prediction and Visualisation**
 Welcome to a complete simulation and visualization pipeline for predicting the fastest possible racing line on any Formula 1 circuit — powered by AI, vehicle dynamics, geospatial mapping, and a custom-built simulation engine.
 
 This project bridges real-world physics, machine learning, and creative input handling, and includes support for both official F1 tracks and user-drawn circuits.
 
-🚀 Key Features
+**🚀 Key Features**
 Physics-Aware Simulation Engine
 Built using Python (TensorFlow, NumPy, Pandas) to model:
 
@@ -43,8 +43,8 @@ Get predictive insights and driver stats
 Professional Guidance
 Developed with input from engineers at Yas Marina Circuit, Abu Dhabi, ensuring the simulation reflects real-world racing behavior.
 
-
-🧠 How It Works
+**
+🧠 How It Works**
 Data Input
 
 Load real track layout (KML) or custom-drawn layout (PNG/JPG).
@@ -74,7 +74,7 @@ React + Node interface
 Connects to local track DB for lap records, corner analysis, etc.
 
 
-⚙ Requirements
+**⚙ Requirements**
 Python 3.8+
 
 TensorFlow
@@ -88,7 +88,7 @@ React.js (for chatbot frontend)
 Google Earth Studio (manual animation export)
 
 
-💡 Use Cases
+**💡 Use Cases**
 F1 Strategy and Simulation
 
 Racing Game Engine Integration
@@ -98,7 +98,7 @@ AI-powered Race Education Tools
 eSports and Virtual Circuit Testing
 
 
-🤝 Acknowledgments
+**🤝 Acknowledgments**
 Special thanks to engineers at Yas Marina Circuit for technical feedback on:
 
 Surface grip modeling
